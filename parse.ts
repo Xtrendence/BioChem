@@ -280,8 +280,8 @@ biologyHtmlTableSubchapters += `
 `;
 
 fs.writeFileSync(
-	path.resolve("biology_table_subchapters.html"),
+	path.resolve("docs/biology_table_subchapters.html"),
 	biologyHtmlTableSubchapters,
 );
 
-fs.writeFileSync(path.resolve("biology_table.html"), biologyHtmlTable);
+fs.writeFileSync(path.resolve("docs/biology_table.html"), biologyHtmlTable);
