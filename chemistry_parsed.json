@@ -244,8 +244,8 @@
   },
   {
     "moduleName": "Module 4: Core Organic Chemistry",
-    "totalPages": null,
-    "averageDifficulty": 5.942857142857143,
+    "totalPages": 96,
+    "averageDifficulty": 6.371428571428572,
     "moduleChapters": [
       {
         "chapterName": "Chapter 11: Basic Concepts of Organic Chemistry",
@@ -381,8 +381,8 @@
       },
       {
         "chapterName": "Chapter 17: Spectroscopy",
-        "totalPages": null,
-        "averageDifficulty": 6,
+        "totalPages": 12,
+        "averageDifficulty": 9,
         "subchapters": [
           {
             "name": "17.1 Mass spectrometry",
@@ -393,10 +393,6 @@
             "name": "17.2 Infrared spectroscopy",
             "pages": 6,
             "difficulty": 9
-          },
-          {
-            "pages": null,
-            "difficulty": 0
           }
         ]
       }
