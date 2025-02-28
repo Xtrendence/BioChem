@@ -285,3 +285,20 @@ fs.writeFileSync(
 );
 
 fs.writeFileSync(path.resolve("docs/biology_table.html"), biologyHtmlTable);
+
+const indexHtml = `
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Index</title>
+		</head>
+		<body>
+			<ul>
+				<li><a href="biology_table.html">Biology Table</a></li>
+				<li><a href="biology_table_subchapters.html">Biology Table Subchapters</a></li>
+			</ul>
+		</body>
+	</html>
+`;
+
+fs.writeFileSync(path.resolve("docs/index.html"), indexHtml);
