@@ -1,0 +1,328 @@
+2.1 Atomic structure and isotopes
+5
+1
+-
+2.2 Relative mass
+3
+1
+-
+2.3 Formulae and equations
+4
+1
+-
+3.1 Amount of substance and the mole
+6
+1
+-
+3.2 Determination of formulae
+6
+2
+-
+3.3 Moles and volumes
+6
+1
+-
+3.4 Reacting quantities
+6
+3
+-
+4.1 Acids, bases, and neutralisation
+6
+5
+-
+4.2 Acid-base titrations
+4
+6
+-
+4.3 Redox
+4
+4
+-
+5.1 Electron structure
+5
+4
+-
+5.2 Ionic bonding and structure
+4
+2
+-
+5.3 Covalent bonding
+5
+1
+-
+6.1 Shapes of molecules and ions
+4
+2
+-
+6.2 Electronegativity and polarity
+4
+4
+-
+6.3 Intermolecular forces
+4
+3
+-
+6.4 Hydrogen bonding
+4
+4
+-
+7.1 The periodic table
+4
+5
+-
+7.2 Ionisation energies
+4
+6
+-
+7.3 Periodic trends in bonding and structure
+4
+6
+-
+8.1 Group 2
+6
+7
+-
+8.2 The halogens
+6
+7
+-
+8.3 Qualitative analysis
+6
+7
+-
+9.1 Enthalpy changes
+6
+5
+-
+9.2 Measuring enthalpy changes
+4
+7
+-
+9.3 Bond enthalpies
+4
+6
+-
+9.4 Hess' law and enthalpy cycles
+4
+8
+-
+10.1 Reaction rates
+5
+5
+-
+10.2 Catalysts
+3
+6
+-
+10.3 The Boltzmann distribution
+4
+5
+-
+10.4 Dynamic equilibrium and Le Chatelier's principle
+5
+7
+-
+10.5 The equilibrium constant Kₑ
+7
+8
+-
+11.1 Organic chemistry
+4
+4
+-
+11.2 Nomenclature of organic compounds
+4
+5
+-
+11.3 Representing the formulae of organic compounds
+4
+6
+-
+11.4 Isomerism
+4
+6
+-
+11.5 Introduction to reaction mechanisms
+4
+3
+-
+12.1 Properties of the alkanes
+6
+4
+-
+12.2 Chemical reactions of the alkanes
+6
+5
+-
+13.1 The properties of the alkenes
+4
+5
+-
+13.2 Stereoisomerism
+4
+6
+-
+13.3 Reactions of alkenes
+4
+6
+-
+13.4 Electrophilic addition in alkenes
+4
+6
+-
+13.5 Polymerisation in alkenes
+4
+6
+-
+14.1 Properties of alcohols
+6
+6
+-
+14.2 Reactions of alcohols
+6
+6
+-
+15.1 The chemistry of the haloalkanes
+5
+7
+-
+15.2 Organohalogen compounds in the environment
+5
+7
+-
+16.1 Practical techniques in organic chemistry
+5
+7
+-
+16.2 Synthetic routes
+5
+8
+-
+17.1 Mass spectrometry
+6
+9
+-
+17.2 Infrared spectroscopy
+6
+9
+-
+
+NaN
+0
+-
+23.3 Iodine/thiosulfate redox titrations
+5
+8
+-
+23.4 Electrode potentials
+5
+7
+-
+23.5 Predictions from electrode potentials
+5
+6
+-
+23.6 Storage and fuel cells
+5
+8
+-
+24.1 d-block elements
+5
+5
+-
+24.2 The formation and shapes of complex ions
+5
+4
+-
+24.3 Stereoisomerism in complex ions
+4
+4
+-
+24.4 Ligand substitution and precipitation
+5
+7
+-
+24.5 Redox and qualitative analysis
+5
+7
+-
+25.1 Introducing benzene
+5
+6
+-
+25.2 Electrophilic substitution reactions of benzene
+5
+7
+-
+25.3 The chemistry of phenol
+5
+6
+-
+25.4 Directing groups
+5
+7
+-
+26.1 Carbonyl compounds
+5
+6
+-
+26.2 Identifying aldehydes and ketones
+5
+8
+-
+26.3 Carboxylic acids
+5
+7
+-
+26.4 Carboxylic acid derivatives
+5
+6
+-
+27.1 Amines
+6
+7
+-
+27.2 Amino acids, amides, and chirality
+6
+7
+-
+27.3 Condensation polymers
+6
+6
+-
+28.1 Carbon-carbon bond formation
+6
+8
+-
+28.2 Further practical techniques
+6
+8
+-
+28.3 Further synthetic routes
+6
+8
+-
+29.1 Chromatography and functional group analysis
+6
+6
+-
+29.2 Nuclear magnetic resonance (NMR) spectroscopy
+6
+8
+-
+29.3 Carbon-13 NMR spectroscopy
+4
+8
+-
+29.4 Proton NMR spectroscopy
+4
+8
+-
+29.5 Interpreting NMR spectra
+4
+9
+-
+29.6 Combined techniques
+4
+9
+-

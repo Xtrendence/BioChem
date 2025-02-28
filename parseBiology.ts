@@ -296,6 +296,8 @@ const indexHtml = `
 			<ul>
 				<li><a href="biology_table.html">Biology Table</a></li>
 				<li><a href="biology_table_subchapters.html">Biology Table Subchapters</a></li>
+				<li><a href="chemistry_table.html">Chemistry Table</a></li>
+				<li><a href="chemistry_table_subchapters.html">Chemistry Table Subchapters</a></li>
 			</ul>
 		</body>
 	</html>

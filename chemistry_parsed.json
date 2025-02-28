@@ -1,0 +1,613 @@
+[
+  {
+    "moduleName": "Module 1: Development of Practical Skills in Chemistry",
+    "totalPages": 0,
+    "averageDifficulty": null,
+    "moduleChapters": []
+  },
+  {
+    "moduleName": "Module 2: Foundations in Chemistry",
+    "totalPages": 80,
+    "averageDifficulty": 2.666666666666667,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 2: Atoms, Ions, and Compounds",
+        "totalPages": 12,
+        "averageDifficulty": 1,
+        "subchapters": [
+          {
+            "name": "2.1 Atomic structure and isotopes",
+            "pages": 5,
+            "difficulty": 1
+          },
+          {
+            "name": "2.2 Relative mass",
+            "pages": 3,
+            "difficulty": 1
+          },
+          {
+            "name": "2.3 Formulae and equations",
+            "pages": 4,
+            "difficulty": 1
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 3: Amount of Substance",
+        "totalPages": 24,
+        "averageDifficulty": 1.75,
+        "subchapters": [
+          {
+            "name": "3.1 Amount of substance and the mole",
+            "pages": 6,
+            "difficulty": 1
+          },
+          {
+            "name": "3.2 Determination of formulae",
+            "pages": 6,
+            "difficulty": 2
+          },
+          {
+            "name": "3.3 Moles and volumes",
+            "pages": 6,
+            "difficulty": 1
+          },
+          {
+            "name": "3.4 Reacting quantities",
+            "pages": 6,
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 4: Acids and Redox",
+        "totalPages": 14,
+        "averageDifficulty": 5,
+        "subchapters": [
+          {
+            "name": "4.1 Acids, bases, and neutralisation",
+            "pages": 6,
+            "difficulty": 5
+          },
+          {
+            "name": "4.2 Acid-base titrations",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "4.3 Redox",
+            "pages": 4,
+            "difficulty": 4
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 5: Electrons and Bonding",
+        "totalPages": 14,
+        "averageDifficulty": 2.3333333333333335,
+        "subchapters": [
+          {
+            "name": "5.1 Electron structure",
+            "pages": 5,
+            "difficulty": 4
+          },
+          {
+            "name": "5.2 Ionic bonding and structure",
+            "pages": 4,
+            "difficulty": 2
+          },
+          {
+            "name": "5.3 Covalent bonding",
+            "pages": 5,
+            "difficulty": 1
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 6: Shapes of Molecules and Intermolecular Forces",
+        "totalPages": 16,
+        "averageDifficulty": 3.25,
+        "subchapters": [
+          {
+            "name": "6.1 Shapes of molecules and ions",
+            "pages": 4,
+            "difficulty": 2
+          },
+          {
+            "name": "6.2 Electronegativity and polarity",
+            "pages": 4,
+            "difficulty": 4
+          },
+          {
+            "name": "6.3 Intermolecular forces",
+            "pages": 4,
+            "difficulty": 3
+          },
+          {
+            "name": "6.4 Hydrogen bonding",
+            "pages": 4,
+            "difficulty": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 3: Periodic Table and Energy",
+    "totalPages": 72,
+    "averageDifficulty": 6.341666666666667,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 7: Periodicity",
+        "totalPages": 12,
+        "averageDifficulty": 5.666666666666667,
+        "subchapters": [
+          {
+            "name": "7.1 The periodic table",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "7.2 Ionisation energies",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "7.3 Periodic trends in bonding and structure",
+            "pages": 4,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 8: Reactivity Trends",
+        "totalPages": 18,
+        "averageDifficulty": 7,
+        "subchapters": [
+          {
+            "name": "8.1 Group 2",
+            "pages": 6,
+            "difficulty": 7
+          },
+          {
+            "name": "8.2 The halogens",
+            "pages": 6,
+            "difficulty": 7
+          },
+          {
+            "name": "8.3 Qualitative analysis",
+            "pages": 6,
+            "difficulty": 7
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 9: Enthalpy",
+        "totalPages": 18,
+        "averageDifficulty": 6.5,
+        "subchapters": [
+          {
+            "name": "9.1 Enthalpy changes",
+            "pages": 6,
+            "difficulty": 5
+          },
+          {
+            "name": "9.2 Measuring enthalpy changes",
+            "pages": 4,
+            "difficulty": 7
+          },
+          {
+            "name": "9.3 Bond enthalpies",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "9.4 Hess' law and enthalpy cycles",
+            "pages": 4,
+            "difficulty": 8
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 10: Reaction Rates and Equilibrium",
+        "totalPages": 24,
+        "averageDifficulty": 6.2,
+        "subchapters": [
+          {
+            "name": "10.1 Reaction rates",
+            "pages": 5,
+            "difficulty": 5
+          },
+          {
+            "name": "10.2 Catalysts",
+            "pages": 3,
+            "difficulty": 6
+          },
+          {
+            "name": "10.3 The Boltzmann distribution",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "10.4 Dynamic equilibrium and Le Chatelier's principle",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "10.5 The equilibrium constant Kₑ",
+            "pages": 7,
+            "difficulty": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 4: Core Organic Chemistry",
+    "totalPages": null,
+    "averageDifficulty": 5.942857142857143,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 11: Basic Concepts of Organic Chemistry",
+        "totalPages": 20,
+        "averageDifficulty": 4.8,
+        "subchapters": [
+          {
+            "name": "11.1 Organic chemistry",
+            "pages": 4,
+            "difficulty": 4
+          },
+          {
+            "name": "11.2 Nomenclature of organic compounds",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "11.3 Representing the formulae of organic compounds",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "11.4 Isomerism",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "11.5 Introduction to reaction mechanisms",
+            "pages": 4,
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 12: Alkanes",
+        "totalPages": 12,
+        "averageDifficulty": 4.5,
+        "subchapters": [
+          {
+            "name": "12.1 Properties of the alkanes",
+            "pages": 6,
+            "difficulty": 4
+          },
+          {
+            "name": "12.2 Chemical reactions of the alkanes",
+            "pages": 6,
+            "difficulty": 5
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 13: Alkenes",
+        "totalPages": 20,
+        "averageDifficulty": 5.8,
+        "subchapters": [
+          {
+            "name": "13.1 The properties of the alkenes",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "13.2 Stereoisomerism",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "13.3 Reactions of alkenes",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "13.4 Electrophilic addition in alkenes",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "13.5 Polymerisation in alkenes",
+            "pages": 4,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 14: Alcohols",
+        "totalPages": 12,
+        "averageDifficulty": 6,
+        "subchapters": [
+          {
+            "name": "14.1 Properties of alcohols",
+            "pages": 6,
+            "difficulty": 6
+          },
+          {
+            "name": "14.2 Reactions of alcohols",
+            "pages": 6,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 15: Haloalkanes",
+        "totalPages": 10,
+        "averageDifficulty": 7,
+        "subchapters": [
+          {
+            "name": "15.1 The chemistry of the haloalkanes",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "15.2 Organohalogen compounds in the environment",
+            "pages": 5,
+            "difficulty": 7
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 16: Organic Synthesis",
+        "totalPages": 10,
+        "averageDifficulty": 7.5,
+        "subchapters": [
+          {
+            "name": "16.1 Practical techniques in organic chemistry",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "16.2 Synthetic routes",
+            "pages": 5,
+            "difficulty": 8
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 17: Spectroscopy",
+        "totalPages": null,
+        "averageDifficulty": 6,
+        "subchapters": [
+          {
+            "name": "17.1 Mass spectrometry",
+            "pages": 6,
+            "difficulty": 9
+          },
+          {
+            "name": "17.2 Infrared spectroscopy",
+            "pages": 6,
+            "difficulty": 9
+          },
+          {
+            "pages": null,
+            "difficulty": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 5: Physical Chemistry and Transition Elements",
+    "totalPages": 44,
+    "averageDifficulty": 6.325,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 23: Redox and Electrode Potentials",
+        "totalPages": 20,
+        "averageDifficulty": 7.25,
+        "subchapters": [
+          {
+            "name": "23.3 Iodine/thiosulfate redox titrations",
+            "pages": 5,
+            "difficulty": 8
+          },
+          {
+            "name": "23.4 Electrode potentials",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "23.5 Predictions from electrode potentials",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "23.6 Storage and fuel cells",
+            "pages": 5,
+            "difficulty": 8
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 24: Transition Elements",
+        "totalPages": 24,
+        "averageDifficulty": 5.4,
+        "subchapters": [
+          {
+            "name": "24.1 d-block elements",
+            "pages": 5,
+            "difficulty": 5
+          },
+          {
+            "name": "24.2 The formation and shapes of complex ions",
+            "pages": 5,
+            "difficulty": 4
+          },
+          {
+            "name": "24.3 Stereoisomerism in complex ions",
+            "pages": 4,
+            "difficulty": 4
+          },
+          {
+            "name": "24.4 Ligand substitution and precipitation",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "24.5 Redox and qualitative analysis",
+            "pages": 5,
+            "difficulty": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 6: Organic Chemistry and Analysis",
+    "totalPages": 104,
+    "averageDifficulty": 7.1833333333333345,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 25: Aromatic Chemistry",
+        "totalPages": 20,
+        "averageDifficulty": 6.5,
+        "subchapters": [
+          {
+            "name": "25.1 Introducing benzene",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "25.2 Electrophilic substitution reactions of benzene",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "25.3 The chemistry of phenol",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "25.4 Directing groups",
+            "pages": 5,
+            "difficulty": 7
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 26: Carbonyls and Carboxylic Acids",
+        "totalPages": 20,
+        "averageDifficulty": 6.75,
+        "subchapters": [
+          {
+            "name": "26.1 Carbonyl compounds",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "26.2 Identifying aldehydes and ketones",
+            "pages": 5,
+            "difficulty": 8
+          },
+          {
+            "name": "26.3 Carboxylic acids",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "26.4 Carboxylic acid derivatives",
+            "pages": 5,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 27: Amines, Amino Acids, and Polymers",
+        "totalPages": 18,
+        "averageDifficulty": 6.666666666666667,
+        "subchapters": [
+          {
+            "name": "27.1 Amines",
+            "pages": 6,
+            "difficulty": 7
+          },
+          {
+            "name": "27.2 Amino acids, amides, and chirality",
+            "pages": 6,
+            "difficulty": 7
+          },
+          {
+            "name": "27.3 Condensation polymers",
+            "pages": 6,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 28: Organic Synthesis",
+        "totalPages": 18,
+        "averageDifficulty": 8,
+        "subchapters": [
+          {
+            "name": "28.1 Carbon-carbon bond formation",
+            "pages": 6,
+            "difficulty": 8
+          },
+          {
+            "name": "28.2 Further practical techniques",
+            "pages": 6,
+            "difficulty": 8
+          },
+          {
+            "name": "28.3 Further synthetic routes",
+            "pages": 6,
+            "difficulty": 8
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 29: Chromatography and Spectroscopy",
+        "totalPages": 28,
+        "averageDifficulty": 8,
+        "subchapters": [
+          {
+            "name": "29.1 Chromatography and functional group analysis",
+            "pages": 6,
+            "difficulty": 6
+          },
+          {
+            "name": "29.2 Nuclear magnetic resonance (NMR) spectroscopy",
+            "pages": 6,
+            "difficulty": 8
+          },
+          {
+            "name": "29.3 Carbon-13 NMR spectroscopy",
+            "pages": 4,
+            "difficulty": 8
+          },
+          {
+            "name": "29.4 Proton NMR spectroscopy",
+            "pages": 4,
+            "difficulty": 8
+          },
+          {
+            "name": "29.5 Interpreting NMR spectra",
+            "pages": 4,
+            "difficulty": 9
+          },
+          {
+            "name": "29.6 Combined techniques",
+            "pages": 4,
+            "difficulty": 9
+          }
+        ]
+      }
+    ]
+  }
+]

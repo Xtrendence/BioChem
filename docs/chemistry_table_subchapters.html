@@ -1,0 +1,554 @@
+
+	<style>
+		table {
+			width: 100%;
+			border-collapse: collapse;
+		}
+		th, td {
+			border: 1px solid black;
+			padding: 8px;
+			text-align: left;
+		}
+		th {
+			background-color: #f2f2f2;
+		}
+	</style>
+
+	<table>
+		<tr>
+			<th>Subchapter</th>
+			<th>Pages</th>
+			<th onClick="sortTable(2)" style="cursor: pointer;"
+			>Difficulty</th>
+		</tr>
+
+				<tr>
+					<td>2.1 Atomic structure and isotopes</td>
+					<td>5</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>2.2 Relative mass</td>
+					<td>3</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>2.3 Formulae and equations</td>
+					<td>4</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>3.1 Amount of substance and the mole</td>
+					<td>6</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>3.2 Determination of formulae</td>
+					<td>6</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>3.3 Moles and volumes</td>
+					<td>6</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>3.4 Reacting quantities</td>
+					<td>6</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>4.1 Acids, bases, and neutralisation</td>
+					<td>6</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>4.2 Acid-base titrations</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>4.3 Redox</td>
+					<td>4</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>5.1 Electron structure</td>
+					<td>5</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>5.2 Ionic bonding and structure</td>
+					<td>4</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>5.3 Covalent bonding</td>
+					<td>5</td>
+					<td>1</td>
+				</tr>
+			
+				<tr>
+					<td>6.1 Shapes of molecules and ions</td>
+					<td>4</td>
+					<td>2</td>
+				</tr>
+			
+				<tr>
+					<td>6.2 Electronegativity and polarity</td>
+					<td>4</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>6.3 Intermolecular forces</td>
+					<td>4</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>6.4 Hydrogen bonding</td>
+					<td>4</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>7.1 The periodic table</td>
+					<td>4</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>7.2 Ionisation energies</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>7.3 Periodic trends in bonding and structure</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>8.1 Group 2</td>
+					<td>6</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>8.2 The halogens</td>
+					<td>6</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>8.3 Qualitative analysis</td>
+					<td>6</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>9.1 Enthalpy changes</td>
+					<td>6</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>9.2 Measuring enthalpy changes</td>
+					<td>4</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>9.3 Bond enthalpies</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>9.4 Hess' law and enthalpy cycles</td>
+					<td>4</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>10.1 Reaction rates</td>
+					<td>5</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>10.2 Catalysts</td>
+					<td>3</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>10.3 The Boltzmann distribution</td>
+					<td>4</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>10.4 Dynamic equilibrium and Le Chatelier's principle</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>10.5 The equilibrium constant Kₑ</td>
+					<td>7</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>11.1 Organic chemistry</td>
+					<td>4</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>11.2 Nomenclature of organic compounds</td>
+					<td>4</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>11.3 Representing the formulae of organic compounds</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>11.4 Isomerism</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>11.5 Introduction to reaction mechanisms</td>
+					<td>4</td>
+					<td>3</td>
+				</tr>
+			
+				<tr>
+					<td>12.1 Properties of the alkanes</td>
+					<td>6</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>12.2 Chemical reactions of the alkanes</td>
+					<td>6</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>13.1 The properties of the alkenes</td>
+					<td>4</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>13.2 Stereoisomerism</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>13.3 Reactions of alkenes</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>13.4 Electrophilic addition in alkenes</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>13.5 Polymerisation in alkenes</td>
+					<td>4</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>14.1 Properties of alcohols</td>
+					<td>6</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>14.2 Reactions of alcohols</td>
+					<td>6</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>15.1 The chemistry of the haloalkanes</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>15.2 Organohalogen compounds in the environment</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>16.1 Practical techniques in organic chemistry</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>16.2 Synthetic routes</td>
+					<td>5</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>17.1 Mass spectrometry</td>
+					<td>6</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>17.2 Infrared spectroscopy</td>
+					<td>6</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>undefined</td>
+					<td>NaN</td>
+					<td>0</td>
+				</tr>
+			
+				<tr>
+					<td>23.3 Iodine/thiosulfate redox titrations</td>
+					<td>5</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>23.4 Electrode potentials</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>23.5 Predictions from electrode potentials</td>
+					<td>5</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>23.6 Storage and fuel cells</td>
+					<td>5</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>24.1 d-block elements</td>
+					<td>5</td>
+					<td>5</td>
+				</tr>
+			
+				<tr>
+					<td>24.2 The formation and shapes of complex ions</td>
+					<td>5</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>24.3 Stereoisomerism in complex ions</td>
+					<td>4</td>
+					<td>4</td>
+				</tr>
+			
+				<tr>
+					<td>24.4 Ligand substitution and precipitation</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>24.5 Redox and qualitative analysis</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>25.1 Introducing benzene</td>
+					<td>5</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>25.2 Electrophilic substitution reactions of benzene</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>25.3 The chemistry of phenol</td>
+					<td>5</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>25.4 Directing groups</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>26.1 Carbonyl compounds</td>
+					<td>5</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>26.2 Identifying aldehydes and ketones</td>
+					<td>5</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>26.3 Carboxylic acids</td>
+					<td>5</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>26.4 Carboxylic acid derivatives</td>
+					<td>5</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>27.1 Amines</td>
+					<td>6</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>27.2 Amino acids, amides, and chirality</td>
+					<td>6</td>
+					<td>7</td>
+				</tr>
+			
+				<tr>
+					<td>27.3 Condensation polymers</td>
+					<td>6</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>28.1 Carbon-carbon bond formation</td>
+					<td>6</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>28.2 Further practical techniques</td>
+					<td>6</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>28.3 Further synthetic routes</td>
+					<td>6</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>29.1 Chromatography and functional group analysis</td>
+					<td>6</td>
+					<td>6</td>
+				</tr>
+			
+				<tr>
+					<td>29.2 Nuclear magnetic resonance (NMR) spectroscopy</td>
+					<td>6</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>29.3 Carbon-13 NMR spectroscopy</td>
+					<td>4</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>29.4 Proton NMR spectroscopy</td>
+					<td>4</td>
+					<td>8</td>
+				</tr>
+			
+				<tr>
+					<td>29.5 Interpreting NMR spectra</td>
+					<td>4</td>
+					<td>9</td>
+				</tr>
+			
+				<tr>
+					<td>29.6 Combined techniques</td>
+					<td>4</td>
+					<td>9</td>
+				</tr>
+			</table>
+	<script>
+		function sortTable(n) {
+			var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+			table = document.querySelector("table");
+			switching = true;
+			dir = "asc";
+			while (switching) {
+				switching = false;
+				rows = table.rows;
+				for (i = 1; i < rows.length - 1; i++) {
+					shouldSwitch = false;
+					x = rows[i].getElementsByTagName("TD")[n];
+					y = rows[i + 1].getElementsByTagName("TD")[n];
+					if (dir == "asc") {
+						if (Number(x.innerHTML) > Number(y.innerHTML)) {
+							shouldSwitch = true;
+							break;
+						}
+					} else if (dir == "desc") {
+						if (Number(x.innerHTML) < Number(y.innerHTML)) {
+							shouldSwitch = true;
+							break;
+						}
+					}
+				}
+				if (shouldSwitch) {
+					rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+					switching = true;
+					switchcount++;
+				} else {
+					if (switchcount == 0 && dir == "asc") {
+						dir = "desc";
+						switching = true;
+					}
+				}
+			}
+		}
+	</script>

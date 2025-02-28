@@ -1,0 +1,111 @@
+Module 1: Development of Practical Skills in Chemistry
+Module 2: Foundations in Chemistry
+Chapter 2: Atoms, Ions, and Compounds – 20 pages
+2.1 Atomic structure and isotopes – 5 pages [1/10]
+2.2 Relative mass – 3 pages [1/10]
+2.3 Formulae and equations – 4 pages [1/10]
+Chapter 3: Amount of Substance – 18 pages 
+3.1 Amount of substance and the mole – 6 pages [1/10]
+3.2 Determination of formulae – 6 pages [2/10]
+3.3 Moles and volumes – 6 pages [1/10]
+3.4 Reacting quantities – 6 pages [3/10]
+Chapter 4: Acids and Redox – 16 pages 
+4.1 Acids, bases, and neutralisation – 6 pages [5/10]
+4.2 Acid-base titrations – 4 pages [6/10]
+4.3 Redox – 4 pages [4/10]
+Chapter 5: Electrons and Bonding – 16 pages 
+5.1 Electron structure – 5 pages [4/10]
+5.2 Ionic bonding and structure – 4 pages [2/10]
+5.3 Covalent bonding – 5 pages [1/10]
+Chapter 6: Shapes of Molecules and Intermolecular Forces – 16 pages 
+6.1 Shapes of molecules and ions – 4 pages [2/10]
+6.2 Electronegativity and polarity – 4 pages [4/10]
+6.3 Intermolecular forces – 4 pages [3/10]
+6.4 Hydrogen bonding – 4 pages [4/10]
+Module 3: Periodic Table and Energy
+Chapter 7: Periodicity – 16 pages 
+7.1 The periodic table – 4 pages [5/10]
+7.2 Ionisation energies – 4 pages [6/10]
+7.3 Periodic trends in bonding and structure – 4 pages [6/10]
+Chapter 8: Reactivity Trends – 18 pages 
+8.1 Group 2 – 6 pages [7/10]
+8.2 The halogens – 6 pages [7/10]
+8.3 Qualitative analysis – 6 pages [7/10]
+Chapter 9: Enthalpy – 18 pages
+9.1 Enthalpy changes – 6 pages [5/10]
+9.2 Measuring enthalpy changes – 4 pages [7/10]
+9.3 Bond enthalpies – 4 pages [6/10]
+9.4 Hess' law and enthalpy cycles – 4 pages [8/10]
+Chapter 10: Reaction Rates and Equilibrium – 24 pages 
+10.1 Reaction rates – 5 pages [5/10]
+10.2 Catalysts – 3 pages [6/10]
+10.3 The Boltzmann distribution – 4 pages [5/10]
+10.4 Dynamic equilibrium and Le Chatelier's principle – 5 pages [7/10]
+10.5 The equilibrium constant Kₑ – 7 pages [8/10]
+Module 4: Core Organic Chemistry
+Chapter 11: Basic Concepts of Organic Chemistry – 16 pages 
+11.1 Organic chemistry – 4 pages [4/10]
+11.2 Nomenclature of organic compounds – 4 pages [5/10]
+11.3 Representing the formulae of organic compounds – 4 pages [6/10]
+11.4 Isomerism – 4 pages [6/10]
+11.5 Introduction to reaction mechanisms – 4 pages [3/10]
+Chapter 12: Alkanes – 12 pages 
+12.1 Properties of the alkanes – 6 pages [4/10]
+12.2 Chemical reactions of the alkanes – 6 pages [5/10]
+Chapter 13: Alkenes – 16 pages 
+13.1 The properties of the alkenes – 4 pages [5/10]
+13.2 Stereoisomerism – 4 pages [6/10]
+13.3 Reactions of alkenes – 4 pages [6/10]
+13.4 Electrophilic addition in alkenes – 4 pages [6/10]
+13.5 Polymerisation in alkenes – 4 pages [6/10]
+Chapter 14: Alcohols – 12 pages 
+14.1 Properties of alcohols – 6 pages [6/10]
+14.2 Reactions of alcohols – 6 pages [6/10]
+Chapter 15: Haloalkanes – 10 pages
+15.1 The chemistry of the haloalkanes – 5 pages [7/10]
+15.2 Organohalogen compounds in the environment – 5 pages [7/10]
+Chapter 16: Organic Synthesis – 10 pages 
+16.1 Practical techniques in organic chemistry – 5 pages [7/10]
+16.2 Synthetic routes – 5 pages [8/10]
+Chapter 17: Spectroscopy – 12 pages
+17.1 Mass spectrometry – 6 pages [9/10]
+17.2 Infrared spectroscopy – 6 pages [9/10]
+Chemistry
+Module 5: Physical Chemistry and Transition Elements
+Chapter 23: Redox and Electrode Potentials – 21 pages 
+23.3 Iodine/thiosulfate redox titrations – 5 pages [8/10]
+23.4 Electrode potentials – 5 pages [7/10]
+23.5 Predictions from electrode potentials – 5 pages [6/10]
+23.6 Storage and fuel cells – 5 pages [8/10]
+Chapter 24: Transition Elements – 26 pages 
+24.1 d-block elements – 5 pages [5/10]
+24.2 The formation and shapes of complex ions – 5 pages [4/10]
+24.3 Stereoisomerism in complex ions – 4 pages [4/10]
+24.4 Ligand substitution and precipitation – 5 pages [7/10]
+24.5 Redox and qualitative analysis – 5 pages [7/10]
+Module 6: Organic Chemistry and Analysis
+Chapter 25: Aromatic Chemistry – 22 pages 
+25.1 Introducing benzene – 5 pages [6/10]
+25.2 Electrophilic substitution reactions of benzene – 5 pages [7/10]
+25.3 The chemistry of phenol – 5 pages [6/10]
+25.4 Directing groups – 5 pages [7/10]
+Chapter 26: Carbonyls and Carboxylic Acids – 22 pages
+26.1 Carbonyl compounds – 5 pages [6/10]
+26.2 Identifying aldehydes and ketones – 5 pages [8/10]
+26.3 Carboxylic acids – 5 pages [7/10]
+26.4 Carboxylic acid derivatives – 5 pages [6/10]
+Chapter 27: Amines, Amino Acids, and Polymers – 22 pages 
+27.1 Amines – 6 pages [7/10]
+27.2 Amino acids, amides, and chirality – 6 pages [7/10]
+27.3 Condensation polymers – 6 pages [6/10]
+Chapter 28: Organic Synthesis – 20 pages 
+28.1 Carbon-carbon bond formation – 6 pages [8/10]
+28.2 Further practical techniques – 6 pages [8/10]
+28.3 Further synthetic routes – 6 pages [8/10]
+Chapter 29: Chromatography and Spectroscopy – 26 pages
+29.1 Chromatography and functional group analysis – 6 pages [6/10]
+29.2 Nuclear magnetic resonance (NMR) spectroscopy – 6 pages [8/10]
+29.3 Carbon-13 NMR spectroscopy – 4 pages [8/10]
+29.4 Proton NMR spectroscopy – 4 pages [8/10]
+29.5 Interpreting NMR spectra – 4 pages [9/10]
+29.6 Combined techniques – 4 pages [9/10]
