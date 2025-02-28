@@ -1,0 +1,556 @@
+2.1 Microscopy
+7
+1
+-
+2.2 Magnification and calibration
+4
+1
+-
+2.3 More microscopy
+7
+1
+-
+2.4 Eukaryotic cell structure
+7
+1
+-
+2.5 The ultrastructure of plant cells
+2
+2
+-
+2.6 Prokaryotic and eukaryotic cells
+3
+2
+-
+3.1 Biological elements
+4
+2
+-
+3.2 Water
+2
+2
+-
+3.3 Carbohydrates
+5
+2
+-
+3.4 Testing for carbohydrates
+3
+3
+-
+3.5 Lipids
+5
+2
+-
+3.6 Structure of proteins
+5
+3
+-
+3.7 Types of proteins
+4
+4
+-
+3.8 Nucleic acids
+4
+3
+-
+3.9 DNA replication and the genetic code
+4
+4
+-
+3.10 Protein synthesis
+4
+5
+-
+3.11 ATP
+2
+3
+-
+4.1 Enzyme action
+4
+2
+-
+4.2 Factors affecting enzyme activity
+6
+3
+-
+4.3 Enzyme inhibitors
+3
+4
+-
+4.4 Cofactors, coenzymes, and prosthetic groups
+3
+5
+-
+5.1 Structure and function of membranes
+4
+1
+-
+5.2 Factors affecting membrane structure
+2
+3
+-
+5.3 Diffusion
+4
+2
+-
+5.4 Active transport
+6
+3
+-
+5.5 Osmosis
+6
+3
+-
+6.1 The cell cycle
+4
+5
+-
+6.2 Mitosis
+4
+5
+-
+6.3 Meiosis
+5
+6
+-
+6.4 Organisation and specialisation of cells
+5
+5
+-
+6.5 Stem cells
+5
+5
+-
+7.1 Specialised exchange surfaces
+5
+1
+-
+7.2 Mammalian gaseous exchange system
+6
+2
+-
+7.3 Measuring the process
+2
+5
+-
+7.4 Ventilation and gas exchange in other organisms
+7
+3
+-
+8.1 Transport systems in multicellular animals
+4
+3
+-
+8.2 Blood vessels
+4
+3
+-
+8.3 Blood, tissue fluid, and lymph
+7
+3
+-
+8.4 Transport of oxygen and carbon dioxide in the blood
+4
+5
+-
+8.5 The heart
+4
+4
+-
+9.1 Transport systems in dicotyledonous plants
+7
+6
+-
+9.2 Water transport in multicellular plants
+6
+6
+-
+9.3 Transpiration
+3
+5
+-
+9.4 Translocation
+5
+7
+-
+9.5 Plant adaptations to water availability
+3
+6
+-
+10.1 Classification
+2
+2
+-
+10.2 The five kingdoms
+5
+3
+-
+10.3 Phylogeny
+5
+5
+-
+10.4 Evidence for evolution
+2
+5
+-
+10.5 Types of variation
+5
+6
+-
+10.6 Representing variation graphically
+4
+4
+-
+10.7 Adaptations
+8
+6
+-
+10.8 Changing population characteristics
+5
+6
+-
+11.1 Biodiversity
+2
+5
+-
+11.2 Types of sampling
+2
+3
+-
+11.3 Sampling techniques
+5
+3
+-
+11.4 Calculating biodiversity
+3
+5
+-
+11.5 Calculating genetic biodiversity
+4
+7
+-
+11.6 Factors affecting biodiversity
+5
+6
+-
+11.7 Reasons for maintaining biodiversity
+4
+6
+-
+11.8 Methods of maintaining biodiversity
+5
+5
+-
+12.1 Animal and plant pathogens
+3
+5
+-
+12.2 Animal and plant diseases
+6
+6
+-
+12.3 The transmission of communicable diseases
+3
+5
+-
+12.4 Plant defences against pathogens
+2
+7
+-
+12.5 Non-specific animal defences against pathogens
+2
+7
+-
+12.6 The specific immune system
+5
+8
+-
+12.7 Preventing and treating disease
+8
+5
+-
+13.1 Coordination
+0
+1
+-
+13.2 Neurones
+2
+3
+-
+13.3 Sensory receptors
+3
+4
+-
+13.4 Nervous transmission
+2
+9
+-
+13.5 Synapses
+6
+8
+-
+13.6 Organisation of the nervous system
+5
+3
+-
+13.7 Structure and function of the brain
+2
+7
+-
+13.8 Reflexes
+3
+3
+-
+13.9 Voluntary and involuntary muscles
+4
+7
+-
+13.10 Sliding Filament model
+6
+9
+-
+14.1 Hormonal communication
+0
+6
+-
+14.2 Structure and function of the pancreas
+4
+7
+-
+14.3 Regulation of blood glucose concentration
+3
+7
+-
+14.4 Diabetes and its control
+4
+5
+-
+14.5 Coordinated responses
+3
+5
+-
+14.6 Controlling heart rate
+4
+6
+-
+15.1 The principles of homeostasis
+2
+2
+-
+15.2 Thermoregulation in ectotherms
+2
+3
+-
+15.3 Thermoregulation in endotherms
+3
+5
+-
+15.4 Excretion, homeostasis, and the liver
+4
+5
+-
+15.5 The structure and function of the mammalian kidney
+5
+8
+-
+15.6 The kidney and osmoregulation
+8
+9
+-
+15.7 Urine and diagnosis
+3
+5
+-
+15.8 Kidney failure
+2
+7
+-
+16.1 Plant hormones and growth in plants
+5
+4
+-
+16.2 Plant responses to abiotic stress
+3
+5
+-
+16.3 Plant response to herbivory
+3
+4
+-
+16.4 Tropisms in plants
+3
+6
+-
+16.5 The commercial use of plant hormones
+7
+6
+-
+17.1 Energy cycles
+3
+1
+-
+17.2 ATP synthesis
+3
+6
+-
+17.3 Photosynthesis
+8
+6
+-
+17.4 Factors affecting photosynthesis
+4
+6
+-
+18.1 Glycolysis
+4
+6
+-
+18.2 Linking glycolysis and the Krebs cycle
+2
+6
+-
+18.3 The Krebs cycle
+2
+7
+-
+18.4 Oxidative phosphorylation
+2
+7
+-
+18.5 Aerobic respiration
+5
+8
+-
+18.6 Respiratory substrates
+3
+0
+-
+19.1 Mutations and variation
+4
+4
+-
+19.2 Control of gene expression
+4
+9
+-
+19.3 Body plans
+4
+8
+-
+20.1 Variation and inheritance
+5
+5
+-
+20.2 Monogenic inheritance
+5
+7
+-
+20.3 Dihybrid inheritance
+5
+7
+-
+20.4 Phenotypic ratios
+3
+7
+-
+20.5 Evolution
+4
+7
+-
+20.6 Speciation and artificial selection
+3
+8
+-
+21.1 DNA profiling
+5
+9
+-
+21.2 DNA sequencing and analysis
+4
+9
+-
+21.3 Using DNA sequencing
+5
+9
+-
+21.4 Genetic engineering
+5
+9
+-
+21.5 Gene technology and ethics
+5
+8
+-
+22.1 Natural cloning in plants
+2
+4
+-
+22.2 Artificial cloning in plants
+3
+6
+-
+22.3 Cloning in animals
+5
+6
+-
+22.4 Microorganisms and biotechnology
+4
+5
+-
+22.5 Microorganisms, medicines, and bioremediation
+2
+5
+-
+22.6 Culturing microorganisms in the laboratory
+4
+6
+-
+22.7 Culturing microorganisms on an industrial scale
+3
+6
+-
+22.8 Using immobilised enzymes
+5
+7
+-
+23.1 Ecosystems
+2
+3
+-
+23.2 Biomass transfer through an ecosystem
+6
+4
+-
+23.3 Recycling within ecosystems
+5
+6
+-
+23.4 Succession
+5
+6
+-
+23.5 Measuring distribution and abundance of organisms
+4
+6
+-
+24.1 Population size
+3
+6
+-
+24.2 Competition
+2
+6
+-
+24.3 Predator-prey relationships
+2
+7
+-
+24.4 Conservation and preservation
+2
+5
+-
+24.5 Sustainability
+3
+5
+-

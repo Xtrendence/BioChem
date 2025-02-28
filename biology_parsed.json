@@ -1,0 +1,906 @@
+[
+  {
+    "moduleName": "Module 1: Development of practical skills in Biology",
+    "totalPages": 0,
+    "averageDifficulty": null,
+    "moduleChapters": []
+  },
+  {
+    "moduleName": "Module 2: Foundations in Biology",
+    "totalPages": 133,
+    "averageDifficulty": 3.086666666666667,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 2: Basic components of living systems",
+        "totalPages": 30,
+        "averageDifficulty": 1.3333333333333333,
+        "subchapters": [
+          {
+            "name": "2.1 Microscopy",
+            "pages": 7,
+            "difficulty": 1
+          },
+          {
+            "name": "2.2 Magnification and calibration",
+            "pages": 4,
+            "difficulty": 1
+          },
+          {
+            "name": "2.3 More microscopy",
+            "pages": 7,
+            "difficulty": 1
+          },
+          {
+            "name": "2.4 Eukaryotic cell structure",
+            "pages": 7,
+            "difficulty": 1
+          },
+          {
+            "name": "2.5 The ultrastructure of plant cells",
+            "pages": 2,
+            "difficulty": 2
+          },
+          {
+            "name": "2.6 Prokaryotic and eukaryotic cells",
+            "pages": 3,
+            "difficulty": 2
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 3: Biological Molecules",
+        "totalPages": 42,
+        "averageDifficulty": 3,
+        "subchapters": [
+          {
+            "name": "3.1 Biological elements",
+            "pages": 4,
+            "difficulty": 2
+          },
+          {
+            "name": "3.2 Water",
+            "pages": 2,
+            "difficulty": 2
+          },
+          {
+            "name": "3.3 Carbohydrates",
+            "pages": 5,
+            "difficulty": 2
+          },
+          {
+            "name": "3.4 Testing for carbohydrates",
+            "pages": 3,
+            "difficulty": 3
+          },
+          {
+            "name": "3.5 Lipids",
+            "pages": 5,
+            "difficulty": 2
+          },
+          {
+            "name": "3.6 Structure of proteins",
+            "pages": 5,
+            "difficulty": 3
+          },
+          {
+            "name": "3.7 Types of proteins",
+            "pages": 4,
+            "difficulty": 4
+          },
+          {
+            "name": "3.8 Nucleic acids",
+            "pages": 4,
+            "difficulty": 3
+          },
+          {
+            "name": "3.9 DNA replication and the genetic code",
+            "pages": 4,
+            "difficulty": 4
+          },
+          {
+            "name": "3.10 Protein synthesis",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "3.11 ATP",
+            "pages": 2,
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 4: Enzymes",
+        "totalPages": 16,
+        "averageDifficulty": 3.5,
+        "subchapters": [
+          {
+            "name": "4.1 Enzyme action",
+            "pages": 4,
+            "difficulty": 2
+          },
+          {
+            "name": "4.2 Factors affecting enzyme activity",
+            "pages": 6,
+            "difficulty": 3
+          },
+          {
+            "name": "4.3 Enzyme inhibitors",
+            "pages": 3,
+            "difficulty": 4
+          },
+          {
+            "name": "4.4 Cofactors, coenzymes, and prosthetic groups",
+            "pages": 3,
+            "difficulty": 5
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 5: Plasma membranes",
+        "totalPages": 22,
+        "averageDifficulty": 2.4,
+        "subchapters": [
+          {
+            "name": "5.1 Structure and function of membranes",
+            "pages": 4,
+            "difficulty": 1
+          },
+          {
+            "name": "5.2 Factors affecting membrane structure",
+            "pages": 2,
+            "difficulty": 3
+          },
+          {
+            "name": "5.3 Diffusion",
+            "pages": 4,
+            "difficulty": 2
+          },
+          {
+            "name": "5.4 Active transport",
+            "pages": 6,
+            "difficulty": 3
+          },
+          {
+            "name": "5.5 Osmosis",
+            "pages": 6,
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 6: Cell division",
+        "totalPages": 23,
+        "averageDifficulty": 5.2,
+        "subchapters": [
+          {
+            "name": "6.1 The cell cycle",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "6.2 Mitosis",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "6.3 Meiosis",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "6.4 Organisation and specialisation of cells",
+            "pages": 5,
+            "difficulty": 5
+          },
+          {
+            "name": "6.5 Stem cells",
+            "pages": 5,
+            "difficulty": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 3: Exchange and transport",
+    "totalPages": 67,
+    "averageDifficulty": 4.116666666666666,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 7: Exchange surfaces and breathing",
+        "totalPages": 20,
+        "averageDifficulty": 2.75,
+        "subchapters": [
+          {
+            "name": "7.1 Specialised exchange surfaces",
+            "pages": 5,
+            "difficulty": 1
+          },
+          {
+            "name": "7.2 Mammalian gaseous exchange system",
+            "pages": 6,
+            "difficulty": 2
+          },
+          {
+            "name": "7.3 Measuring the process",
+            "pages": 2,
+            "difficulty": 5
+          },
+          {
+            "name": "7.4 Ventilation and gas exchange in other organisms",
+            "pages": 7,
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 8: Transport in animals",
+        "totalPages": 23,
+        "averageDifficulty": 3.6,
+        "subchapters": [
+          {
+            "name": "8.1 Transport systems in multicellular animals",
+            "pages": 4,
+            "difficulty": 3
+          },
+          {
+            "name": "8.2 Blood vessels",
+            "pages": 4,
+            "difficulty": 3
+          },
+          {
+            "name": "8.3 Blood, tissue fluid, and lymph",
+            "pages": 7,
+            "difficulty": 3
+          },
+          {
+            "name": "8.4 Transport of oxygen and carbon dioxide in the blood",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "8.5 The heart",
+            "pages": 4,
+            "difficulty": 4
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 9: Transport in plants",
+        "totalPages": 24,
+        "averageDifficulty": 6,
+        "subchapters": [
+          {
+            "name": "9.1 Transport systems in dicotyledonous plants",
+            "pages": 7,
+            "difficulty": 6
+          },
+          {
+            "name": "9.2 Water transport in multicellular plants",
+            "pages": 6,
+            "difficulty": 6
+          },
+          {
+            "name": "9.3 Transpiration",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "9.4 Translocation",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "9.5 Plant adaptations to water availability",
+            "pages": 3,
+            "difficulty": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 4: Biodiversity, Evolution, and Disease",
+    "totalPages": 95,
+    "averageDifficulty": 5.2559523809523805,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 10: Classification and Evolution",
+        "totalPages": 36,
+        "averageDifficulty": 4.625,
+        "subchapters": [
+          {
+            "name": "10.1 Classification",
+            "pages": 2,
+            "difficulty": 2
+          },
+          {
+            "name": "10.2 The five kingdoms",
+            "pages": 5,
+            "difficulty": 3
+          },
+          {
+            "name": "10.3 Phylogeny",
+            "pages": 5,
+            "difficulty": 5
+          },
+          {
+            "name": "10.4 Evidence for evolution",
+            "pages": 2,
+            "difficulty": 5
+          },
+          {
+            "name": "10.5 Types of variation",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "10.6 Representing variation graphically",
+            "pages": 4,
+            "difficulty": 4
+          },
+          {
+            "name": "10.7 Adaptations",
+            "pages": 8,
+            "difficulty": 6
+          },
+          {
+            "name": "10.8 Changing population characteristics",
+            "pages": 5,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 11: Biodiversity",
+        "totalPages": 30,
+        "averageDifficulty": 5,
+        "subchapters": [
+          {
+            "name": "11.1 Biodiversity",
+            "pages": 2,
+            "difficulty": 5
+          },
+          {
+            "name": "11.2 Types of sampling",
+            "pages": 2,
+            "difficulty": 3
+          },
+          {
+            "name": "11.3 Sampling techniques",
+            "pages": 5,
+            "difficulty": 3
+          },
+          {
+            "name": "11.4 Calculating biodiversity",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "11.5 Calculating genetic biodiversity",
+            "pages": 4,
+            "difficulty": 7
+          },
+          {
+            "name": "11.6 Factors affecting biodiversity",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "11.7 Reasons for maintaining biodiversity",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "11.8 Methods of maintaining biodiversity",
+            "pages": 5,
+            "difficulty": 5
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 12: Communicable Diseases",
+        "totalPages": 29,
+        "averageDifficulty": 6.142857142857143,
+        "subchapters": [
+          {
+            "name": "12.1 Animal and plant pathogens",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "12.2 Animal and plant diseases",
+            "pages": 6,
+            "difficulty": 6
+          },
+          {
+            "name": "12.3 The transmission of communicable diseases",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "12.4 Plant defences against pathogens",
+            "pages": 2,
+            "difficulty": 7
+          },
+          {
+            "name": "12.5 Non-specific animal defences against pathogens",
+            "pages": 2,
+            "difficulty": 7
+          },
+          {
+            "name": "12.6 The specific immune system",
+            "pages": 5,
+            "difficulty": 8
+          },
+          {
+            "name": "12.7 Preventing and treating disease",
+            "pages": 8,
+            "difficulty": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 5: Communication, Homeostasis, and Energy",
+    "totalPages": 80,
+    "averageDifficulty": 5.633333333333333,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 13: Neuronal Communication",
+        "totalPages": 33,
+        "averageDifficulty": 5.4,
+        "subchapters": [
+          {
+            "name": "13.1 Coordination",
+            "pages": 0,
+            "difficulty": 1
+          },
+          {
+            "name": "13.2 Neurones",
+            "pages": 2,
+            "difficulty": 3
+          },
+          {
+            "name": "13.3 Sensory receptors",
+            "pages": 3,
+            "difficulty": 4
+          },
+          {
+            "name": "13.4 Nervous transmission",
+            "pages": 2,
+            "difficulty": 9
+          },
+          {
+            "name": "13.5 Synapses",
+            "pages": 6,
+            "difficulty": 8
+          },
+          {
+            "name": "13.6 Organisation of the nervous system",
+            "pages": 5,
+            "difficulty": 3
+          },
+          {
+            "name": "13.7 Structure and function of the brain",
+            "pages": 2,
+            "difficulty": 7
+          },
+          {
+            "name": "13.8 Reflexes",
+            "pages": 3,
+            "difficulty": 3
+          },
+          {
+            "name": "13.9 Voluntary and involuntary muscles",
+            "pages": 4,
+            "difficulty": 7
+          },
+          {
+            "name": "13.10 Sliding Filament model",
+            "pages": 6,
+            "difficulty": 9
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 14: Hormonal Communication",
+        "totalPages": 18,
+        "averageDifficulty": 6,
+        "subchapters": [
+          {
+            "name": "14.1 Hormonal communication",
+            "pages": 0,
+            "difficulty": 6
+          },
+          {
+            "name": "14.2 Structure and function of the pancreas",
+            "pages": 4,
+            "difficulty": 7
+          },
+          {
+            "name": "14.3 Regulation of blood glucose concentration",
+            "pages": 3,
+            "difficulty": 7
+          },
+          {
+            "name": "14.4 Diabetes and its control",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "14.5 Coordinated responses",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "14.6 Controlling heart rate",
+            "pages": 4,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 15: Homeostasis",
+        "totalPages": 29,
+        "averageDifficulty": 5.5,
+        "subchapters": [
+          {
+            "name": "15.1 The principles of homeostasis",
+            "pages": 2,
+            "difficulty": 2
+          },
+          {
+            "name": "15.2 Thermoregulation in ectotherms",
+            "pages": 2,
+            "difficulty": 3
+          },
+          {
+            "name": "15.3 Thermoregulation in endotherms",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "15.4 Excretion, homeostasis, and the liver",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "15.5 The structure and function of the mammalian kidney",
+            "pages": 5,
+            "difficulty": 8
+          },
+          {
+            "name": "15.6 The kidney and osmoregulation",
+            "pages": 8,
+            "difficulty": 9
+          },
+          {
+            "name": "15.7 Urine and diagnosis",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "15.8 Kidney failure",
+            "pages": 2,
+            "difficulty": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 5: Communication, homeostasis, and energy",
+    "totalPages": 57,
+    "averageDifficulty": 5.138888888888889,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 16: Plant responses",
+        "totalPages": 21,
+        "averageDifficulty": 5,
+        "subchapters": [
+          {
+            "name": "16.1 Plant hormones and growth in plants",
+            "pages": 5,
+            "difficulty": 4
+          },
+          {
+            "name": "16.2 Plant responses to abiotic stress",
+            "pages": 3,
+            "difficulty": 5
+          },
+          {
+            "name": "16.3 Plant response to herbivory",
+            "pages": 3,
+            "difficulty": 4
+          },
+          {
+            "name": "16.4 Tropisms in plants",
+            "pages": 3,
+            "difficulty": 6
+          },
+          {
+            "name": "16.5 The commercial use of plant hormones",
+            "pages": 7,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 17: Energy for biological processes",
+        "totalPages": 18,
+        "averageDifficulty": 4.75,
+        "subchapters": [
+          {
+            "name": "17.1 Energy cycles",
+            "pages": 3,
+            "difficulty": 1
+          },
+          {
+            "name": "17.2 ATP synthesis",
+            "pages": 3,
+            "difficulty": 6
+          },
+          {
+            "name": "17.3 Photosynthesis",
+            "pages": 8,
+            "difficulty": 6
+          },
+          {
+            "name": "17.4 Factors affecting photosynthesis",
+            "pages": 4,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 18: Respiration",
+        "totalPages": 18,
+        "averageDifficulty": 5.666666666666667,
+        "subchapters": [
+          {
+            "name": "18.1 Glycolysis",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "18.2 Linking glycolysis and the Krebs cycle",
+            "pages": 2,
+            "difficulty": 6
+          },
+          {
+            "name": "18.3 The Krebs cycle",
+            "pages": 2,
+            "difficulty": 7
+          },
+          {
+            "name": "18.4 Oxidative phosphorylation",
+            "pages": 2,
+            "difficulty": 7
+          },
+          {
+            "name": "18.5 Aerobic respiration",
+            "pages": 5,
+            "difficulty": 8
+          },
+          {
+            "name": "18.6 Respiratory substrates",
+            "pages": 3,
+            "difficulty": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "moduleName": "Module 6: Genetics, evolution, and ecosystems",
+    "totalPages": 123,
+    "averageDifficulty": 6.509722222222222,
+    "moduleChapters": [
+      {
+        "chapterName": "Chapter 19: Genetics of living systems",
+        "totalPages": 12,
+        "averageDifficulty": 7,
+        "subchapters": [
+          {
+            "name": "19.1 Mutations and variation",
+            "pages": 4,
+            "difficulty": 4
+          },
+          {
+            "name": "19.2 Control of gene expression",
+            "pages": 4,
+            "difficulty": 9
+          },
+          {
+            "name": "19.3 Body plans",
+            "pages": 4,
+            "difficulty": 8
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 20: Patterns of inheritance and variation",
+        "totalPages": 25,
+        "averageDifficulty": 6.833333333333333,
+        "subchapters": [
+          {
+            "name": "20.1 Variation and inheritance",
+            "pages": 5,
+            "difficulty": 5
+          },
+          {
+            "name": "20.2 Monogenic inheritance",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "20.3 Dihybrid inheritance",
+            "pages": 5,
+            "difficulty": 7
+          },
+          {
+            "name": "20.4 Phenotypic ratios",
+            "pages": 3,
+            "difficulty": 7
+          },
+          {
+            "name": "20.5 Evolution",
+            "pages": 4,
+            "difficulty": 7
+          },
+          {
+            "name": "20.6 Speciation and artificial selection",
+            "pages": 3,
+            "difficulty": 8
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 21: Manipulating genomes",
+        "totalPages": 24,
+        "averageDifficulty": 8.8,
+        "subchapters": [
+          {
+            "name": "21.1 DNA profiling",
+            "pages": 5,
+            "difficulty": 9
+          },
+          {
+            "name": "21.2 DNA sequencing and analysis",
+            "pages": 4,
+            "difficulty": 9
+          },
+          {
+            "name": "21.3 Using DNA sequencing",
+            "pages": 5,
+            "difficulty": 9
+          },
+          {
+            "name": "21.4 Genetic engineering",
+            "pages": 5,
+            "difficulty": 9
+          },
+          {
+            "name": "21.5 Gene technology and ethics",
+            "pages": 5,
+            "difficulty": 8
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 22: Cloning and biotechnology",
+        "totalPages": 28,
+        "averageDifficulty": 5.625,
+        "subchapters": [
+          {
+            "name": "22.1 Natural cloning in plants",
+            "pages": 2,
+            "difficulty": 4
+          },
+          {
+            "name": "22.2 Artificial cloning in plants",
+            "pages": 3,
+            "difficulty": 6
+          },
+          {
+            "name": "22.3 Cloning in animals",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "22.4 Microorganisms and biotechnology",
+            "pages": 4,
+            "difficulty": 5
+          },
+          {
+            "name": "22.5 Microorganisms, medicines, and bioremediation",
+            "pages": 2,
+            "difficulty": 5
+          },
+          {
+            "name": "22.6 Culturing microorganisms in the laboratory",
+            "pages": 4,
+            "difficulty": 6
+          },
+          {
+            "name": "22.7 Culturing microorganisms on an industrial scale",
+            "pages": 3,
+            "difficulty": 6
+          },
+          {
+            "name": "22.8 Using immobilised enzymes",
+            "pages": 5,
+            "difficulty": 7
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 23: Ecosystems",
+        "totalPages": 22,
+        "averageDifficulty": 5,
+        "subchapters": [
+          {
+            "name": "23.1 Ecosystems",
+            "pages": 2,
+            "difficulty": 3
+          },
+          {
+            "name": "23.2 Biomass transfer through an ecosystem",
+            "pages": 6,
+            "difficulty": 4
+          },
+          {
+            "name": "23.3 Recycling within ecosystems",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "23.4 Succession",
+            "pages": 5,
+            "difficulty": 6
+          },
+          {
+            "name": "23.5 Measuring distribution and abundance of organisms",
+            "pages": 4,
+            "difficulty": 6
+          }
+        ]
+      },
+      {
+        "chapterName": "Chapter 24: Populations and sustainability",
+        "totalPages": 12,
+        "averageDifficulty": 5.8,
+        "subchapters": [
+          {
+            "name": "24.1 Population size",
+            "pages": 3,
+            "difficulty": 6
+          },
+          {
+            "name": "24.2 Competition",
+            "pages": 2,
+            "difficulty": 6
+          },
+          {
+            "name": "24.3 Predator-prey relationships",
+            "pages": 2,
+            "difficulty": 7
+          },
+          {
+            "name": "24.4 Conservation and preservation",
+            "pages": 2,
+            "difficulty": 5
+          },
+          {
+            "name": "24.5 Sustainability",
+            "pages": 3,
+            "difficulty": 5
+          }
+        ]
+      }
+    ]
+  }
+]
